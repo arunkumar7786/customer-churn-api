@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+logs/*.txt
+scored_customers.csv
+gold_churn_data.csv
